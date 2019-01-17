@@ -27,7 +27,9 @@ print(ans*100)
 ###############################################################################
 
 ###############################################################################
-# TODO: 2.
+# Done: 2.
+g=77+math.cos(2.75)
+print(g)
 #   Immediately below this _TODO_, write code that:
 #     - Computes 77 plus the cosine of 2.75.
 #         HINT: You will need to import the   math  module (library).
