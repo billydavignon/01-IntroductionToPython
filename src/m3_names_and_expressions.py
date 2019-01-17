@@ -4,7 +4,7 @@ print(answer * 100)
 
 
 ###############################################################################
-# TODO: 1.
+# Done: 1.
 #   Read the 2 lines of code ABOVE this _TODO_.  That code:
 #     1. Computes 2 raised to the 5th power,
 #          yielding the object that is the integer 32.
@@ -18,9 +18,10 @@ print(answer * 100)
 #     ** ASKING QUESTIONS AS NEEDED. **
 #   Once you completely understand the above, run this module,
 #   confirming that it prints 3200.  Then change the above _TODO_ to DONE.
+
 import math
-answer=2**5
-print(answer*100)
+ans=2**5
+print(ans*100)
 
 
 ###############################################################################
