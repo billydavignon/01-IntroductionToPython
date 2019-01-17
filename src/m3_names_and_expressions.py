@@ -2,6 +2,7 @@
 answer = 2 ** 5
 print(answer * 100)
 
+
 ###############################################################################
 # TODO: 1.
 #   Read the 2 lines of code ABOVE this _TODO_.  That code:
@@ -17,6 +18,11 @@ print(answer * 100)
 #     ** ASKING QUESTIONS AS NEEDED. **
 #   Once you completely understand the above, run this module,
 #   confirming that it prints 3200.  Then change the above _TODO_ to DONE.
+import math
+answer=2**5
+print(answer*100)
+
+
 ###############################################################################
 
 ###############################################################################
