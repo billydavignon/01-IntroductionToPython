@@ -72,12 +72,15 @@ print("ram")
 
 ###############################################################################
 #
-# TODO: 4.
+# Done: 4.
 #   Add yet another   print   statement, putting it below this comment.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
 #   You do NOT have to use strings for this, so no quotation marks!
 #
+import math
+answer=3607*34227
+print(answer)
 #   TEST your code by re-running this module, then asking someone
 #   whom you trust:
 #      What number did your   print   display for this TO-DO?
