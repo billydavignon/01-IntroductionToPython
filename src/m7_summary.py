@@ -28,7 +28,7 @@ ram_turtle.forward(200)
 ram_turtle.pen_up()
 #         (so that the next movements do NOT leave a "trail")
 #         HINT: Use the "dot trick" to figure out how to do this.
-#
+# 
 #    - Makes the SimpleTurtle go to the Point at (100, -40).
 
 
