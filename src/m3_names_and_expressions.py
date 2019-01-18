@@ -49,7 +49,11 @@ print(f)
 ###############################################################################
 
 ###############################################################################
-# TODO: 4.
+# Done: 4.
+p=math.sqrt(2)
+print(p)
+yo=2**.5
+print(yo)
 #   Immediately below this _TODO_,
 #   write code that computes the square root of 2 in two ways:
 #     - By using the   math.sqrt   function.
@@ -60,7 +64,7 @@ print(f)
 
 
 ###############################################################################
-# TODO: 5.
+# Done: 5.
 #   Every object has a TYPE and a VALUE.  For example,
 #   for the object that is computed by  math.sqrt(2):
 #      Its TYPE is float  (which is shorthand for "floating point number").
@@ -78,23 +82,36 @@ print(f)
 #   Try it now!
 #   (Just write   print(type(3.14))   below this _TODO_ and run the program.)
 #
+print(type(3.14))
 #   Now go through the BLAH objects listed below, one by one.  For each:
 #      1. Try to GUESS its TYPE.
 #      2. Then write code of the form   print(type(BLAH)).
 #      3. THen RUN the code to LEARN its TYPE.
 
 #       "hello"
+print(type("hello"))
 #       'hello'
+print(type('hello'))
 #       'a b c'
+print(type('a b c'))
 #       3 + 3
+print(type(3 + 3))
 #       "3" + "3"
+print(type("3"+"3"))
 #       2 ** 100
+print(type(2**100))
 #       2.0 ** 100
+print(type(2.0**100))
 #       math.sin(8)
+print(type(math.sin(8)))
 #       math.sin
+print(type(math.sin))
 #       print
+print(type(print))
 #       math
+print(type(math))
 #       'math'
+print(type('math'))
 #
 # After you have written and run the code to learn the TYPE
 # of each of the above, change the above _TODO_ to DONE.
@@ -102,7 +119,7 @@ print(f)
 
 ###############################################################################
 #
-# TODO: 6.
+# Done: 6.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #   Run one more time to be sure that all is still OK.
 #
